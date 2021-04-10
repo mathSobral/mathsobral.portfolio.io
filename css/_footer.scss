@@ -1,0 +1,22 @@
+/*Footer --------------------------------------*/
+footer {
+    background: #000;
+    border-top: 1px solid $bg-transparent;
+    //background-color: #24252F;
+    width: 100%;
+}
+
+.footer-content {
+    color: $text-primary;
+    text-align: center;
+    padding: 20px 0;
+
+    p {
+        font-size: 0.9rem;
+
+        i {
+            font-size: 25px;
+            color: $text-secondary-two;
+        }
+    }
+}
